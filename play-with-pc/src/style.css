@@ -1,0 +1,28 @@
+body{
+  background:orange
+}
+div{
+  background:pink;
+  width:500px;
+  padding:20px;
+  text-align:center;
+  margin:auto;
+  margin-top:100px;
+  border:5px dashed red;
+    border-radius:30px
+}
+h1{
+  color:purple;
+}
+p{
+  color:purple;
+    font-weight:bold;
+}
+button{
+  background:blue;
+    color:white;
+  width:80px;
+  height:35px;
+  font-weight:bold;
+  border-radius:10px
+  }
